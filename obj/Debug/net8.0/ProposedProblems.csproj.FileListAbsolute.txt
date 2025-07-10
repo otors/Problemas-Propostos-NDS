@@ -1,0 +1,14 @@
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/bin/Debug/net8.0/ProposedProblems
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/bin/Debug/net8.0/ProposedProblems.deps.json
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/bin/Debug/net8.0/ProposedProblems.runtimeconfig.json
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/bin/Debug/net8.0/ProposedProblems.dll
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/bin/Debug/net8.0/ProposedProblems.pdb
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/ProposedProblems.GeneratedMSBuildEditorConfig.editorconfig
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/ProposedProblems.AssemblyInfoInputs.cache
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/ProposedProblems.AssemblyInfo.cs
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/ProposedProblems.csproj.CoreCompileInputs.cache
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/ProposedProblems.dll
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/refint/ProposedProblems.dll
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/ProposedProblems.pdb
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/ProposedProblems.genruntimeconfig.cache
+/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/obj/Debug/net8.0/ref/ProposedProblems.dll

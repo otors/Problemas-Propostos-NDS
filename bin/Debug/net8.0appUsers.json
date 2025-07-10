@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "b3554453-c3e6-4c61-983b-2f3541949a7b",
+    "Name": "xchara_",
+    "Password": "maumau",
+    "Saldo": 1595.33
+  },
+  {
+    "Id": "f26813e7-cac3-49cc-b39a-9e91f39c4b64",
+    "Name": "lloyd",
+    "Password": "gamer",
+    "Saldo": 2952.00
+  },
+  {
+    "Id": "cc2a60df-cd2a-48f9-9011-78d0ca2a5220",
+    "Name": "nicolas",
+    "Password": "labubu",
+    "Saldo": 49990
+  }
+]

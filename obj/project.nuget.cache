@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vhg12Mm4/Nc=",
+  "success": true,
+  "projectFilePath": "/home/otoribeiroserafim/RiderProjects/ProposedProblems/ProposedProblems/ProposedProblems.csproj",
+  "expectedPackageFiles": [
+    "/home/otoribeiroserafim/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "/home/otoribeiroserafim/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "/home/otoribeiroserafim/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.17/microsoft.netcore.app.host.linux-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
